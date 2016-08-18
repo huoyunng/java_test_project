@@ -1,2 +1,4 @@
 # java_test_project
-java程序，测试用例
+this is a testjava程序，测试用例
+o
+hello java_test_project
